@@ -224,7 +224,7 @@ export default function ContactSection() {
                     <i className="fas fa-map-marker-alt"></i>
                   </div>
                   <h6>Address</h6>
-                  <p className="text-muted">Rivers State ICT Center, Air Force Road, Nigeria, PortHarcourt</p>
+                  <p className="text-muted">Rivers State ICT Center, Air Force Road, PortHarcourt, Nigeria </p>
                 </div>
                 <div className="col-md-4 text-center mb-3">
                   <div className="feature-icon mx-auto mb-3" style={{ width: '60px', height: '60px' }}>
