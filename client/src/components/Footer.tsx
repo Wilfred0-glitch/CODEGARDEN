@@ -10,10 +10,10 @@ export default function Footer() {
             </div>
             <p style={{ color: 'var(--secondary-color)' }}>Nurturing young minds through innovative coding education. Join us in cultivating the next generation of tech enthusiasts!</p>
             <div className="d-flex gap-2">
-              <a href="#" className="btn btn-outline-light btn-sm"><i className="fab fa-facebook"></i></a>
+              <a href="http://facebook.com/officialcodegarden" className="btn btn-outline-light btn-sm"><i className="fab fa-facebook"></i></a>
               <a href="#" className="btn btn-outline-light btn-sm"><i className="fab fa-twitter"></i></a>
-              <a href="#" className="btn btn-outline-light btn-sm"><i className="fab fa-instagram"></i></a>
-              <a href="https://www.tiktok.com/@code_garden?is_from_webapp=1&sender_device=pc" target="_blank" className="btn btn-outline-light btn-sm"><i className="fab fa-tiktok"></i></a>
+              <a href="https://www.instagram.com/official_codegarden?igsh=MXlwZ2JqcnNjdzl0&utm_source=qr" className="btn btn-outline-light btn-sm"><i className="fab fa-instagram"></i></a>
+              <a href="http://vm.tiktok.com/ZMStMjug3" target="_blank" className="btn btn-outline-light btn-sm"><i className="fab fa-tiktok"></i></a>
             </div>
           </div>
           <div className="col-lg-4 col-md-6 mb-4">
